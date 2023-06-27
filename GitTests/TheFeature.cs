@@ -13,4 +13,6 @@ internal class TheFeature
 
     public string Description { get; set; }
     public string Author { get; set; }
+
+    public int MyProperty { get; set; }
 }
