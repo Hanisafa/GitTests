@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitTests
+namespace GitTests;
+
+internal class TheFeature
 {
-    internal class TheFeature
-    {
-    }
+    public  int  ID { get; set; }
+    public string Name { get; set; }
 }
