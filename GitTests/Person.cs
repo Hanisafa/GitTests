@@ -13,4 +13,6 @@ internal class Person
 
     public int Age { get; set; }
     public int MyProperty { get; set; }
+
+    public int MyProperty1 { get; set; }
 }
