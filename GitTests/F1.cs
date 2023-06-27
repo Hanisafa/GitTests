@@ -8,5 +8,6 @@ namespace GitTests
 {
     internal class F1
     {
+        public int MyProperty { get; set; }
     }
 }
